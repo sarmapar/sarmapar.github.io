@@ -18,6 +18,8 @@ about:
       href: https://youtube.com/@sarahinsilico
 ---
 
+Sarah is passionate about science and her community and strives to make science more understandable and accessible through teaching, creating videos, and developing software to aid in biological research.
+
 ## Education
 
 Sarah is a PhD candidate in the Bioinformatics & Computational Biology program at the University of North Carolina at Chapel Hill under the mentorship of [Doug Phanstiel](http://phanstiel-lab.med.unc.edu/ "Phanstiel Lab Website").
