@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sarah Mae Parker",
+    "section": "",
+    "text": "Sarah Parker is a"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sarah Mae Parker",
+    "section": "Education",
+    "text": "Education\nSarah is a PhD candidate in the Bioinformatics & Computational Biology program at the University of North Carolina at Chapel Hill under the mentorship of Doug Phanstiel.\nShe previously graduated from Pepperdine University in 2019 with a BS in Biological Sciences and a minor in Computer Science."
+  }
+]
