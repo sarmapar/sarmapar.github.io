@@ -16,6 +16,10 @@ about:
     - icon: youtube
       text: YouTube
       href: https://youtube.com/@sarahinsilico
+    - icon: email
+      text: Email
+      href: mailto:sarmae@live.unc.edu
+      
 ---
 
 Sarah is passionate about science and her community and strives to make science more understandable and accessible through teaching, creating videos, and developing software to aid in biological research.
